@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 Apr, 2022, 5:58:10 PM
+    Author     : HP
+*/
+
+.admintitle
+{
+    background-color: darkred;
+    color: cornsilk;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 150px;
+    line-height: 150px;
+}
+.dashboard
+{
+    background-color: peru;
+    color: yellow;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 120px;
+    line-height: 400px;
+   
+}
